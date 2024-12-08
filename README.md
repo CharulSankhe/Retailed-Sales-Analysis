@@ -1,1 +1,1 @@
-# Retailed-Sales-Analysis
+# Retail-Sales-Analysis
